@@ -1,1 +1,1 @@
-# phyton-snake
+It is a simple python game made with pygame. It contains some features like: food that speeds you up or slows you down.
